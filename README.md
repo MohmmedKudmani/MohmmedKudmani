@@ -26,7 +26,7 @@
 
 <image align="center" width='40%'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedKudmani&layout=compact'/>
 
-<p><img align="center" width='100%' hight='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedkudmani&" alt="mohmmedkudmani" /></p>
+<p><image align="center" width='100%' hight='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedkudmani&" alt="mohmmedkudmani" /></p>
 
 
 
