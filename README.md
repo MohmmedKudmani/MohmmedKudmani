@@ -26,4 +26,4 @@
 
 <p>&nbsp;<image align='left' src='https://github-readme-stats.vercel.app/api?username=MohmmedKudmani&show_icons=true&theme=radical'/></p>
 
-<image align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedKudmani&layout=compact'/>
+<image align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedKudmani&show_icons=true&locale=en&layout=compact'/>
