@@ -24,9 +24,9 @@
 
 <image align='left' width='50%' src='https://github-readme-stats.vercel.app/api?username=MohmmedKudmani&show_icons=true&theme=radical'/>
 
-<image align='left' width='41%'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedKudmani&layout=compact'/>
+<image align="center" width='41%'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedKudmani&layout=compact'/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmmedkudmani&show_icons=true&locale=en" alt="mohmmedkudmani" /></p>
+<p>&nbsp;<image align="center" width='41%'  src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohmmedKudmani&layout=compact'/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmedkudmani&" alt="mohmmedkudmani" /></p>
 
