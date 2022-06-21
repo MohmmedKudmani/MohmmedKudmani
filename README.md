@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kudmani</h1>
 <h3 align="center">A Frontend Web Developer, Simple Backend</h3>
 
+<img align="right" alt='mohmmedkudmani' width='400' src="https://postimg.cc/CB154pdh" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmedkudmani&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmedkudmani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohammedkudmani" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedkudmani?logo=twitter&style=for-the-badge" alt="mohammedkudmani" /></a> </p>
