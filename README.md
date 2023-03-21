@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kudmani</h1>
-<h3 align="center">A Frontend Web Developer, Simple Backend</h3>
+<h3 align="center">A Frontend Web Developer, With a good Backend Knowledge</h3>
 
 <img align="right" alt='mohmmedkudmani' width='270' src="https://i.postimg.cc/0Qb8Cvkw/Untitled-2-01-01-01.png" />
 
