@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmedkudmani&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmedkudmani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/MohammedKudamni" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedkudmani?logo=twitter&style=for-the-badge" alt="mohammedkudmani" /></a> </p>
-
 - 🌱 I’m currently learning **Redis, Cypress**
 
 - 👨‍💻 All of my projects are available at [https://www.mk-portfolio.me](https://www.mk-portfolio.me)
