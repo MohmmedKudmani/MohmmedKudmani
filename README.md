@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redis, Cypress**
 
-- 👨‍💻 All of my projects are available at [https://www.mk-portfolio.me](https://www.mk-portfolio.me)
+- 👨‍💻 All of my projects are available at [https://www.mk-portfolio.site](https://www.mk-portfolio.site)
 
 - 💬 Ask me about **Next.js, MERN Stack**
 
