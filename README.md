@@ -3,8 +3,6 @@
 
 <img align="right" alt='mohmmedkudmani' width='270' src="https://i.postimg.cc/0Qb8Cvkw/Untitled-2-01-01-01.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmmedkudmani&label=Profile%20views&color=0e75b6&style=flat" alt="mohmmedkudmani" /> </p>
-
 - 🌱 I’m currently learning **Redis, Cypress**
 
 - 👨‍💻 All of my projects are available at [https://www.mk-portfolio.site](https://www.mk-portfolio.site)
