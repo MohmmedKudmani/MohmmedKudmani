@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kudmani</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Frontend Web Developer</h3>
 
 - 🌱 I’m currently learning **Redis, Cypress, Larvel**
 
 - 👨‍💻 All of my projects are available at [https://www.mk-portfolio.dev](https://www.mk-portfolio.dev)
 
-- 💬 Ask me about **React.js, Next.js, Hono.js**
+- 💬 Ask me about **React.js, Next.js**
 
 - 📫 How to reach me **mohammedkudmani@gmail.com**
 
