@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mk-portfolio.dev](https://www.mk-portfolio.dev)
 
-- 💬 Ask me about **React.js, Next.js Hono.js**
+- 💬 Ask me about **React.js, Next.js, Hono.js**
 
 - 📫 How to reach me **mohammedkudmani@gmail.com**
 
