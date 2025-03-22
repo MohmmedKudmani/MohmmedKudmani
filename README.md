@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohammed Kudmani</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Redis, Cypress**
+- 🌱 I’m currently learning **Redis, Cypress, Larvel**
 
 - 👨‍💻 All of my projects are available at [https://www.mk-portfolio.dev](https://www.mk-portfolio.dev)
 
-- 💬 Ask me about **Next.js, MERN Stack**
+- 💬 Ask me about **React.js, Next.js Hono.js**
 
 - 📫 How to reach me **mohammedkudmani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MohammedKudamni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammedkudmani" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammed-kudmani-b64889212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed kudmani" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mohammed-kudmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed kudmani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
