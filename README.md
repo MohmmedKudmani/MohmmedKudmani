@@ -1,5 +1,11 @@
 # 💫 About Me:
-👨‍💻 What I do: Build **full-stack SaaS & AI-powered products** for e-commerce businesses<br>👯 I'm looking to collaborate on **full-stack SaaS & AI-integrated products**<br>🤝 I'm looking for help with **senior-level system design & architecture patterns**<br>🌱 I'm currently learning **advanced RAG, AI agents & context engineering**<br>👨‍💻 All of my projects are available at [mk-portfolio.dev](https://www.mk-portfolio.dev)<br>📫 How to reach me **[mohammedkudmani@gmail.com](mailto:mohammedkudmani@gmail.com)**<br>⚡ Fun fact: I built production SaaS before I knew what "senior" meant 😄
+### 👨‍💻 What I do: Build **full-stack SaaS & AI-powered products** for e-commerce businesses
+### 👯 I'm looking to collaborate on **full-stack SaaS & AI-integrated products**
+### 🤝 I'm looking for help with **senior-level system design & architecture patterns**
+### 🌱 I'm currently learning **advanced RAG, AI agents & context engineering**
+### 👨‍💻 All of my projects are available at [mk-portfolio.dev](https://www.mk-portfolio.dev)
+### 📫 How to reach me [mohammedkudmani@gmail.com](mailto:mohammedkudmani@gmail.com)
+### ⚡ Fun fact: I built production SaaS before I knew what "senior" meant 😄
 
 
 ## 🌐 Socials:
